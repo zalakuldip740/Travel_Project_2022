@@ -22,7 +22,6 @@ class StringConstants {
   static String intro4Subtitle = 'Our bags are packed, We\'re ready to go!';
   static String introSkip = "Skip";
 
-
   // HomePage Strings
   static String appname = "MakeMyTrip";
   static String populartours = "Popular Tours";
@@ -31,5 +30,11 @@ class StringConstants {
   static String places = "Places";
   static String states = "States";
 
-
+  // UserHistoryPage Strings
+  static String historyHeading = 'History';
+  static String bookingPrice = '₹ 100000';
+  static String bookingDate = '12 Jul, 22 - 19JUl, 22';
+  static String totalBookingDays = '365 Days';
+  static String bookingLocation = 'Location';
+  static String bookingtitle = 'Hotel or Tour Name';
 }
