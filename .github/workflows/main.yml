@@ -36,4 +36,3 @@ jobs:
           flutter pub rub build_runner build
           flutter test
           flutter build apk
-
