@@ -25,7 +25,6 @@ class MyApp extends StatelessWidget {
       title: 'Make My Trip',
       theme: MakeMyTripLightTheme.lightTheme,
       onGenerateRoute: AppRoutes.Router.generateRoutes,
-      //home: const SplashPage(),
     );
   }
 }
