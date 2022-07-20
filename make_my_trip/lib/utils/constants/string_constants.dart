@@ -39,7 +39,7 @@ class StringConstants {
   static String introNext = "Next";
   static String introDone = "Done";
 
-  // HomePage Strings
+  //  HomePage Strings
   static String appname = "MakeMyTrip";
   static String populartours = "Popular Tours";
   static String viewall = "View All";
